@@ -1,3 +1,3 @@
 # FriendlyMatter
 
-## The prototype is inside you
+## The protomolecule is inside you
